@@ -1,0 +1,7 @@
+{
+    "min_length": 8,
+    "max_length": 20,
+    "require_special": true,
+    "require_capital": true,
+    "require_number": true
+}
